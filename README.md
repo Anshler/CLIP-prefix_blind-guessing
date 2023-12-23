@@ -176,7 +176,11 @@ We use 6 metrics: Bleu-1 to 4, Meteor and Rouge
 
 ## Inference
 
-Run the provided code on Colab. The model weights can be downloaded via Mediafire:
+The provided code can also be run on Colab:
+* [![CLIP-prefix](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Mw_MsCix-NeUGRu77E-BkkvW6tut-AI-?usp=sharing)
+* [![SBG](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Mw_MsCix-NeUGRu77E-BkkvW6tut-AI-?usp=sharing)
+
+The model weights can be downloaded via Mediafire:
 * [CLIP-prefix](https://www.mediafire.com/file/qof8qa7odm4dfck/flickr8k_prefix-030.pt/file) _(gradient clipping flickr8k)_
 * [SBG](https://www.mediafire.com/file/9rjol6786rlmefx/model.safetensors/file) _(flickr8k)_
 
