@@ -176,8 +176,8 @@ We use 6 metrics: Bleu-1 to 4, Meteor and Rouge
 
 ## Inference
 
-Run the provided code on Colab. The model weights can be downloaded via mediafire:
-* [CLIP-prefix](https://www.mediafire.com/file/qof8qa7odm4dfck/flickr8k_prefix-030.pt/file)
-* [SBG](https://www.mediafire.com/file/9rjol6786rlmefx/model.safetensors/file)
+Run the provided code on Colab. The model weights can be downloaded via Mediafire:
+* [CLIP-prefix](https://www.mediafire.com/file/qof8qa7odm4dfck/flickr8k_prefix-030.pt/file) _(gradient clipping flickr8k)_
+* [SBG](https://www.mediafire.com/file/9rjol6786rlmefx/model.safetensors/file) _(flickr8k)_
 
-We also create a Stable diffusion _extension_ to interact with our models locally. Load from this [repo]()
+We also create a _Stable diffusion ([A1111 Webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)) extension_ to interact with our models locally. Load from this [repo](https://github.com/Anshler/ICG_sd_extension)
