@@ -4,7 +4,7 @@ Image caption generation resides at the intersection of computer vision and natu
 
 We presents two models that leverage CLIP as the image encoder and fine-tune GPT-2 for caption generation on the Flickr30k and Flickr8k datasets. The first model utilizes a straightforward mapping network and outperforms the original architecture. The second model constitutes a new architecture exploring the boundaries of minimal visual information required for captioning. It incorporates CLIP's text encoder to produce input for the generator, while the image embedding serves solely as a validation mechanism. Despite its relatively lower performance, this model demonstrates the decoder's ability to create captions based on keyword descriptions alone, without direct access to the context vector.
 
-_Full report currently unavailable_ ⏱️
+_Full report temporarily unavailable_ ⏱️
 
 ## Dataset
 
