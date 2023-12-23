@@ -1,4 +1,4 @@
-# CLIP-Prefix for Image Captioning and an Experiment on Blind Image Guessing 👁️
+# CLIP-Prefix for Image Captioning and an Experiment on Blind Image Guessing 👁️📜🖋️
 
 Image caption generation resides at the intersection of computer vision and natural language processing, with its primary goal being the creation of descriptive and coherent textual narratives that faithfully depict the content of an image. 
 
