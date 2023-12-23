@@ -28,7 +28,7 @@ We use 6 metrics: Bleu-1 to 4, Meteor and Rouge
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left;">CLIP-prefix (Original)</td>
+      <td style="text-align:left;"><a href="https://github.com/rmokady/CLIP_prefix_caption">CLIP-prefix</a> (Original)</td>
       <td style="text-align:center;">0.698</td>
       <td style="text-align:center;">0.508</td>
       <td style="text-align:center;">0.363</td>
@@ -96,7 +96,7 @@ We use 6 metrics: Bleu-1 to 4, Meteor and Rouge
 ## Inference
 
 Run the provided code on Colab. The model weights can be downloaded via mediafire:
-* [modified ClipCap](https://www.mediafire.com/file/qof8qa7odm4dfck/flickr8k_prefix-030.pt/file)
+* [CLIP-prefix](https://www.mediafire.com/file/qof8qa7odm4dfck/flickr8k_prefix-030.pt/file)
 * [SBG](https://www.mediafire.com/file/9rjol6786rlmefx/model.safetensors/file)
 
 We also create a Stable diffusion _extension_ to interact with our models locally. Load from this [repo]()
