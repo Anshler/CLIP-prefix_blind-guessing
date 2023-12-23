@@ -93,6 +93,87 @@ We use 6 metrics: Bleu-1 to 4, Meteor and Rouge
   </tbody>
 </table>
 
+<!-- GitHub Markdown with converted LaTeX table -->
+*Table 2: Result comparison of models trained on Flickr30k*
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:center;">Models</th>
+      <th style="text-align:center;">BLEU-1</th>
+      <th style="text-align:center;">BLEU-2</th>
+      <th style="text-align:center;">BLEU-3</th>
+      <th style="text-align:center;">BLEU-4</th>
+      <th style="text-align:center;">METEOR</th>
+      <th style="text-align:center;">ROUGE</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left;">CLIP-prefix (Original)</td>
+      <td style="text-align:center;">0.715</td>
+      <td style="text-align:center;">0.506</td>
+      <td style="text-align:center;">0.351</td>
+      <td style="text-align:center;">0.243</td>
+      <td style="text-align:center;">0.232</td>
+      <td style="text-align:center;">0.529</td>
+    </tr>
+    <tr>
+      <td style="text-align:left;">Ours: CLIP-prefix -- Gradient clipping</td>
+      <td style="text-align:center;">0.715</td>
+      <td style="text-align:center;">0.503</td>
+      <td style="text-align:center;">0.349</td>
+      <td style="text-align:center;">0.235</td>
+      <td style="text-align:center;"><strong>0.233</strong></td>
+      <td style="text-align:center;">0.528</td>
+    </tr>
+    <tr>
+      <td style="text-align:left;">Ours: CLIP-prefix -- Custom tokenizer</td>
+      <td style="text-align:center;"><strong>0.733</strong></td>
+      <td style="text-align:center;"><strong>0.525</strong></td>
+      <td style="text-align:center;"><strong>0.366</strong></td>
+      <td style="text-align:center;"><strong>0.254</strong></td>
+      <td style="text-align:center;">0.232</td>
+      <td style="text-align:center;"><strong>0.536</strong></td>
+    </tr>
+    <tr>
+      <td style="text-align:left;">Ours: SBG -- One caption</td>
+      <td style="text-align:center;">0.495</td>
+      <td style="text-align:center;">0.261</td>
+      <td style="text-align:center;">0.139</td>
+      <td style="text-align:center;">0.076</td>
+      <td style="text-align:center;">0.154</td>
+      <td style="text-align:center;">0.378</td>
+    </tr>
+    <tr>
+      <td style="text-align:left;">Ours: SBG -- Top-2 caption</td>
+      <td style="text-align:center;">0.510</td>
+      <td style="text-align:center;">0.279</td>
+      <td style="text-align:center;">0.150</td>
+      <td style="text-align:center;">0.082</td>
+      <td style="text-align:center;">0.164</td>
+      <td style="text-align:center;">0.391</td>
+    </tr>
+    <tr>
+      <td style="text-align:left;">Ours: SBG -- Top-5 caption</td>
+      <td style="text-align:center;"><strong>0.543</strong></td>
+      <td style="text-align:center;"><strong>0.304</strong></td>
+      <td style="text-align:center;"><strong>0.170</strong></td>
+      <td style="text-align:center;"><strong>0.095</strong></td>
+      <td style="text-align:center;"><strong>0.175</strong></td>
+      <td style="text-align:center;"><strong>0.411</strong></td>
+    </tr>
+    <tr>
+      <td style="text-align:left;">Merge-RNN</td>
+      <td style="text-align:center;">0.596</td>
+      <td style="text-align:center;">0.404</td>
+      <td style="text-align:center;">0.270</td>
+      <td style="text-align:center;">0.181</td>
+      <td style="text-align:center;">0.175</td>
+      <td style="text-align:center;">0.416</td>
+    </tr>
+  </tbody>
+</table>
+
 ## Inference
 
 Run the provided code on Colab. The model weights can be downloaded via mediafire:
