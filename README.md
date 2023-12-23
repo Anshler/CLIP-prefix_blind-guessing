@@ -6,7 +6,7 @@ We presents two models that leverage CLIP as the image encoder and fine-tune GPT
 
 ## Dataset
 
-We use the [Flickr8k](https://www.kaggle.com/datasets/adityajn105/flickr8k) and [flickr30k](https://www.kaggle.com/datasets/eeshawn/flickr30k) dataset
+We use the [Flickr8k](https://www.kaggle.com/datasets/adityajn105/flickr8k) and [Flickr30k](https://www.kaggle.com/datasets/eeshawn/flickr30k) dataset
 
 ## Evaluation
 
