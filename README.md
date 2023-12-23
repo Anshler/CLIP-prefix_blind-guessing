@@ -176,7 +176,7 @@ We use 6 metrics: Bleu-1 to 4, Meteor and Rouge
 
 ## Inference
 
-The provided code can also be run on Colab:
+The provided code can be run on Colab:
 * [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/10SNKw8Tx-bZNwJJthUzkxRZmehdSwxjv?usp=sharing) CLIP-prefix
 * [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ttLZZX4IEsuONxu9pCeoVCza4NHRv16P?usp=sharing) SBG
 
