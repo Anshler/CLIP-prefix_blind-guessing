@@ -82,7 +82,7 @@ We use 6 metrics: Bleu-1 to 4, Meteor and Rouge
       <td style="text-align:center;"><strong>0.444</strong></td>
     </tr>
     <tr>
-      <td style="text-align:left;">[Merge-RNN](https://github.com/mtanti/rnn-role)</td>
+      <td style="text-align:left;"><a href="https://github.com/mtanti/rnn-role">Merge-RNN</a></td>
       <td style="text-align:center;">0.601</td>
       <td style="text-align:center;">0.411</td>
       <td style="text-align:center;">0.272</td>
