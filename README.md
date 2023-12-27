@@ -19,7 +19,7 @@ _Full results temporarily unavailable_
 ## Inference
 
 Run our demo on Colab:
-* [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/19zLqmFVkE5kxbHJbyY62ZxJqjg6EcMGX?usp=sharing) CLIP-prefix
-* [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ttLZZX4IEsuONxu9pCeoVCza4NHRv16P?usp=sharing) SBG
+* [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1l7yHUMrhL_6JF_2_VQcvjHltLCEKy5ZH?usp=sharing) CLIP-prefix
+* [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/19zLqmFVkE5kxbHJbyY62ZxJqjg6EcMGX?usp=sharing) SBG
 
 We also create a _[Stable diffusion WebUI](https://github.com/AUTOMATIC1111/stable-diffusion-webui) extension_ to interact with our models locally. Load from this [repo](https://github.com/Anshler/ICG_sd_extension)
