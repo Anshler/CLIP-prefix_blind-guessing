@@ -18,12 +18,8 @@ _Full results temporarily unavailable_
 
 ## Inference
 
-The provided code can be run on Colab:
-* [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/10SNKw8Tx-bZNwJJthUzkxRZmehdSwxjv?usp=sharing) CLIP-prefix
+Run our demo on Colab:
+* [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/19zLqmFVkE5kxbHJbyY62ZxJqjg6EcMGX?usp=sharing) CLIP-prefix
 * [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ttLZZX4IEsuONxu9pCeoVCza4NHRv16P?usp=sharing) SBG
-
-The model weights can be downloaded via Mediafire:
-* <a href="https://www.mediafire.com/file/qof8qa7odm4dfck/flickr8k_prefix-030.pt/file"><img src="https://cdn.worldvectorlogo.com/logos/mediafire-wordmark-1.svg" alt="Download from MediaFire" style="height: 1em;"></a> CLIP-prefix _(gradient clipping flickr8k)_
-* <a href="https://www.mediafire.com/file/9rjol6786rlmefx/model.safetensors/file"><img src="https://cdn.worldvectorlogo.com/logos/mediafire-wordmark-1.svg" alt="Download from MediaFire" style="height: 1em;"></a> SBG _(flickr8k)_
 
 We also create a _[Stable diffusion WebUI](https://github.com/AUTOMATIC1111/stable-diffusion-webui) extension_ to interact with our models locally. Load from this [repo](https://github.com/Anshler/ICG_sd_extension)
