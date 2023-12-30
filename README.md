@@ -190,7 +190,7 @@ Our model weights are published on Huggingface:
 * <a> <img src="https://workable-application-form.s3.amazonaws.com/advanced/production/61557f91d9510741dc62e7f8/c3635b59-a3d2-444a-b636-a9d0061dcdde" style="height: 1em;"></a> [SBG](https://huggingface.co/Anshler/selective-blind-guessing) _(flickr8k)_
 
 ## Contact
-Team members: [Triet](https://www.facebook.com/anshler), [Linh](https://www.facebook.com/ngnd.linh), [Tri](https://www.facebook.com/thantri222)
+Team members: [Triet Huynh Minh](https://www.facebook.com/anshler), [Duy Linh Nguyen](https://www.facebook.com/ngnd.linh), [Thanh Tri Nguyen](https://www.facebook.com/thantri222)
 ## Citation
 
 _Citation temporarily unavailable_ ⏱️
