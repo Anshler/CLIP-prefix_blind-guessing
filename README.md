@@ -181,6 +181,7 @@ Run our demo on Colab:
 * [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1l7yHUMrhL_6JF_2_VQcvjHltLCEKy5ZH?usp=sharing) CLIP-prefix
 * [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/19zLqmFVkE5kxbHJbyY62ZxJqjg6EcMGX?usp=sharing) SBG
 
+## Models
 The model weights are published on Huggingface:
 * <a> <img src="https://workable-application-form.s3.amazonaws.com/advanced/production/61557f91d9510741dc62e7f8/c3635b59-a3d2-444a-b636-a9d0061dcdde" style="height: 1em;"></a> [CLIP-prefix](https://huggingface.co/Anshler/clip-prefix)
 * <a> <img src="https://workable-application-form.s3.amazonaws.com/advanced/production/61557f91d9510741dc62e7f8/c3635b59-a3d2-444a-b636-a9d0061dcdde" style="height: 1em;"></a> [SBG](https://huggingface.co/Anshler/selective-blind-guessing) _(flickr8k)_
