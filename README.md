@@ -189,6 +189,8 @@ The model weights are published on Huggingface:
 
 We also create a _[Stable diffusion WebUI](https://github.com/AUTOMATIC1111/stable-diffusion-webui) extension_ to interact with our models (_Clip-prefix gradient8k & SBG 8k_) locally. Load from this [repo](https://github.com/Anshler/ICG_sd_extension)
 
+## Contact
+Team members: [Triet](https://www.facebook.com/anshler), [Linh](https://www.facebook.com/ngnd.linh), [Tri](https://www.facebook.com/thantri222)
 ## Citation
 
 _Citation temporarily unavailable_ ⏱️
