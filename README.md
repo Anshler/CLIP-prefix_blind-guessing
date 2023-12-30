@@ -184,6 +184,7 @@ Run our demo on Colab:
 The model weights are published on Huggingface:
 * <a> <img src="https://workable-application-form.s3.amazonaws.com/advanced/production/61557f91d9510741dc62e7f8/c3635b59-a3d2-444a-b636-a9d0061dcdde" style="height: 1em;"></a> [CLIP-prefix](https://huggingface.co/Anshler/clip-prefix)
 * <a> <img src="https://workable-application-form.s3.amazonaws.com/advanced/production/61557f91d9510741dc62e7f8/c3635b59-a3d2-444a-b636-a9d0061dcdde" style="height: 1em;"></a> [SBG](https://huggingface.co/Anshler/selective-blind-guessing) _(flickr8k)_
+* CLIP model used is ViT-L-14
 
 We also create a _[Stable diffusion WebUI](https://github.com/AUTOMATIC1111/stable-diffusion-webui) extension_ to interact with our models (_Clip-prefix gradient8k & SBG 8k_) locally. Load from this [repo](https://github.com/Anshler/ICG_sd_extension)
 
