@@ -190,7 +190,7 @@ Our model weights are published on Huggingface:
 CLIP model used is ViT-L-14
 
 ## Contact
-Team members: [Triet Huynh Minh](https://www.facebook.com/anshler), [Duy Linh Nguyen](https://www.facebook.com/ngnd.linh), [Thanh Tri Nguyen](https://www.facebook.com/thantri222)
+Team members: [Triet Minh Huynh](https://www.facebook.com/anshler), [Duy Linh Nguyen](https://www.facebook.com/ngnd.linh), [Thanh Tri Nguyen](https://www.facebook.com/thantri222)
 ## Citation
 
 _Citation temporarily unavailable_ ⏱️
