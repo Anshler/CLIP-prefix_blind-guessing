@@ -194,3 +194,7 @@ Team members: [Triet Huynh Minh](https://www.facebook.com/anshler), [Duy Linh Ng
 ## Citation
 
 _Citation temporarily unavailable_ ⏱️
+
+## Acknowledgments
+
+_This project was inspired by_ [CLIP_prefix_caption](https://github.com/rmokady/CLIP_prefix_caption)
