@@ -193,7 +193,27 @@ CLIP model used is ViT-L-14
 Team members: [Triet Minh Huynh](https://www.facebook.com/anshler), [Duy Linh Nguyen](https://www.facebook.com/ngnd.linh), [Thanh Tri Nguyen](https://www.facebook.com/thantri222)
 ## Citation
 
-_Citation temporarily unavailable_ ⏱️
+```bibtex
+@InProceedings{10.1007/978-3-031-67357-3_14,
+author="Huynh, Triet Minh
+and Nguyen, Duy Linh
+and Nguyen, Thanh Tri
+and Vu, Thuy-Duong Thi
+and Dang-Ngoc, Hanh
+and Dang, Duc Ngoc Minh",
+editor="Vo, Nguyen-Son
+and Ha, Dac-Binh
+and Jung, Haejoon",
+title="CLIP-Prefix for Image Captioning and an Experiment on Blind Image Guessing",
+booktitle="Industrial Networks and Intelligent Systems",
+year="2024",
+publisher="Springer Nature Switzerland",
+address="Cham",
+pages="189--203",
+abstract="Image caption generation resides at the intersection of computer vision and natural language processing, with its primary goal being the creation of descriptive and coherent textual narratives that faithfully depict the content of an image. This paper presents two models that leverage CLIP as the image encoder and fine-tune GPT-2 for caption generation on the Flickr30k and Flickr8k datasets. The first model utilizes a straightforward mapping network and outperforms the original architecture with a BLEU-1 score of 0.700, BLEU-4 score of 0.257, and ROUGE score of 0.569 on the Flickr8k dataset. The second model constitutes a new architecture exploring the boundaries of minimal visual information required for captioning. It incorporates CLIP's text encoder to produce input for the generator, while the image embedding serves solely as a validation mechanism. Despite its relatively lower performance, with a BLEU-1 score of 0.546, BLEU-4 score of 0.108, and ROUGE score of 0.444 on the Flickr8k dataset, this model demonstrates the decoder's ability to create captions based on keyword descriptions alone, without direct access to the context vector.",
+isbn="978-3-031-67357-3"
+}
+```
 
 ## Acknowledgments
 
