@@ -1,5 +1,5 @@
 # CLIP-Prefix for Image Captioning and an Experiment on Blind Image Guessing 👁️📜🖋️
-[paper] [\[model\]](https://huggingface.co/Anshler/selective-blind-guessing) [\[demo\]](https://colab.research.google.com/drive/19zLqmFVkE5kxbHJbyY62ZxJqjg6EcMGX?usp=sharing)
+[\[paper\]](https://doi.org/10.1007/978-3-031-67357-3_14) [\[model\]](https://huggingface.co/Anshler/selective-blind-guessing) [\[demo\]](https://colab.research.google.com/drive/19zLqmFVkE5kxbHJbyY62ZxJqjg6EcMGX?usp=sharing)
 
 Image caption generation resides at the intersection of computer vision and natural language processing, with its primary goal being the creation of descriptive and coherent textual narratives that faithfully depict the content of an image. 
 
